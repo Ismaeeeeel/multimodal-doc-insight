@@ -1,0 +1,5 @@
+transformers
+torch
+pillow
+pymupdf
+opencv-python
